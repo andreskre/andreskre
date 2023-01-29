@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Mi nombre es Patricio Tapia y soy un estudiante de la carrera Analista Programador en busca de práctica laboral para obtener mi título profesional.
+Mi nombre es Patricio Tapia, soy un estudiante de la carrera Analista Programador en busca de práctica laboral para obtener mi título profesional.
 
 ## Habilidades⚡:
 
