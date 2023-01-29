@@ -2,7 +2,7 @@
 
 <!--
 **andreskre/andreskre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+Mi nombre es Patricio Tapia y soy un estudiante de la carrera Analista Programador en busca de práctica laboral para obtener mi título profesional.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
