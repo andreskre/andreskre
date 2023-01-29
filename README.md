@@ -18,7 +18,8 @@ Mi nombre es Patricio Tapia y soy un estudiante de la carrera Analista Programad
 
 ## Habilidades⚡:
 
-![Python](https://img.shields.io/badge/Python-text-#3776AB?style=for-the-badge&logo=Python)</br>
-![]
-Python
-
+* Python.
+* Django.
+* MongoDB.
+* React.
+* HTML5 y CSS.
